@@ -35,7 +35,7 @@ import es.adama.aleatorios.GeneradorAleatorio;
 @Controller
 public class GeneradorAleatorioController {
 	// Usando slf4j api directamente - elimina los comentarios de este código después de que las dependencias de SLFJ han sido añadidas
-	// private static final Logger logger = LoggerFactory.getLogger(IdentifierGenerationController.class);
+	// private static final Logger logger = LoggerFactory.getLogger(GeneradorAleatorioController.class);
 
 	// Usando el api log4j proporcionado por la dependencia específica
 	private static final Logger logger = Logger
